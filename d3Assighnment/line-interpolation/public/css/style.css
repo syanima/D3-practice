@@ -1,0 +1,32 @@
+.container {
+	width:1400px;
+	height:720px;
+}
+
+path{
+	stroke:black;
+	stroke-width:2px;
+	fill:none;
+}
+
+.simplelinepath {
+	stroke:darkred;
+	fill:none;
+	stroke-width:2px; 
+}
+
+.sinpath{
+	fill:none;
+	stroke:darkblue;
+	stroke-width:2px; 
+}
+
+.dot{
+	stroke:steelblue;
+	fill:white;
+	stroke-width:1px;
+}
+
+svg {
+	display: block;
+}

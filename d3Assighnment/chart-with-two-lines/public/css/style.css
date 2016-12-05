@@ -1,0 +1,22 @@
+.container {
+	width:1400px;
+	height:720px;
+}
+
+path{
+	stroke:black;
+	stroke-width:2px;
+	fill:none;
+}
+
+.linepath{
+	stroke: steelblue;
+	fill :none;
+	stroke-width:2px; 
+}
+
+.dot{
+	stroke: steelblue;
+	fill: white;
+	stroke-width : 1px;
+}

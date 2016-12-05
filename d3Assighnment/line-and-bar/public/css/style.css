@@ -1,0 +1,29 @@
+.container{
+	width:1400px;
+	height:720px;	
+}
+
+path{
+	stroke:black;
+	stroke-width:2px;
+	fill:none;
+}
+
+.linepath{
+	stroke:black;
+	stroke-width:2px;
+	fill:none;
+}
+
+.values{
+	stroke: steelblue;
+	fill:none;
+}
+
+#line-chart{
+	float:left;
+}
+
+#bar-chart{
+	margin-left: 20px;
+}

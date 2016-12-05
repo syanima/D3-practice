@@ -1,0 +1,39 @@
+.container{
+	width:1400px;
+	height:450px;	
+}
+
+.bar{
+	height: 30px;
+	text-align: center;
+	color: white;
+	display: block;
+	border: 1px solid white;
+	border-radius: 45px;
+}
+
+#checkoutbutton {
+    background-color: #F3F2F2;
+ 	-webkit-border-radius: 15px;
+  	padding: 3px;
+  	width: 60px;
+}
+
+.sort-area{
+	width: 1400px;
+	height: 80px;
+}
+
+.subject{
+	height: 80px;
+	width: 1400px;
+}
+
+.subject-name{
+	text-align: center;
+	color: white;
+	display: inline;
+	border: 1px solid white;
+	border-radius: 30px;
+	padding : 5px;
+}

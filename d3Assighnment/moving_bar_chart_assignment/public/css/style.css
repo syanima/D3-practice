@@ -1,0 +1,13 @@
+.container{
+	width:1400px;
+	height:720px;	
+}
+
+.bar{
+	height: 30px;
+	background-color: steelblue;
+	text-align: right;
+	color: white;
+	display: block;
+	border: 1px solid white;
+}

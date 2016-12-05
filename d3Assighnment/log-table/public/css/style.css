@@ -1,0 +1,17 @@
+.container {
+	width:1400px;
+	height:720px;
+}
+
+.cell {
+    float: left;
+    width: 75px;
+}
+
+table tr th, td {
+    border: 1px solid black;
+}
+
+.log-table {
+    border:1px solid black;
+}
